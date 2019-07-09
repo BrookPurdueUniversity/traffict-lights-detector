@@ -38,12 +38,12 @@ For the maski mages, there are 2 semantic classes: Tarffic Lights and Background
 
 Below are examples of images from these two different datasets.
 
-#### 1. Exampel from dataset of carla
+#### 1. Example from dataset of carla
 
 * image -- ![](//live.staticflickr.com/65535/48235762867_ebc343aa99_c.jpg)
 * mask -- ![](//live.staticflickr.com/65535/48235690456_d84238eb00_c.jpg)
 
-#### 2. Exampel from dataset of simulator
+#### 2. Example from dataset of simulator
 
 * image -- ![](//live.staticflickr.com/65535/48235705681_85998d770e_c.jpg)
 * mask -- ![](//live.staticflickr.com/65535/48235706456_363d0b3c1f_c.jpg)
